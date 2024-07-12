@@ -36,11 +36,22 @@ If they loose the staked coins will be lost.
 checkBalance() --> to check the current token balance of the player.
 # Getting Started 
 ## Executing Program
-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/. Once you are on the Remix website, create 2 new files by clicking on the "+" icon in the left-hand sidebar. Save the "ERC20_token" & "Vault" contracts in my repo as your own with a .sol extension.
-•	Now, compile & deploy the ERC20 contract and copy its address
+To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/. Once you are on the Remix website, create 2 new files by clicking on the "+" icon in the left-hand sidebar. Save the "ERC20_token" & "Vault" contracts in my repo as your own with a .sol extension. Also check that the Metamask is connected with custom subnet.
+•	Now, compile & deploy the ERC20 contract and copy its address 
 •	Then, compile the Vault contract and pass the copied address as a constructor argument.
 •	Deploy the Vault contract. All Done !!
+Note: Deploy the contracts in Remix IDE using Environment --> Injected Provider - Metamask.
+
 ## Interacting with Program
+![image](https://github.com/user-attachments/assets/5f377180-b84c-45ff-a715-b2e9d56bec1d)
+![image](https://github.com/user-attachments/assets/39abf3b6-a05a-4195-8591-37bcfeaa21fd)
+![image](https://github.com/user-attachments/assets/0e9b2e5a-4cae-4be6-a8e6-185d65914e14)
+![image](https://github.com/user-attachments/assets/fa7eed33-3e7c-4d97-a3a5-6524fe51a3cf)
+![image](https://github.com/user-attachments/assets/7267c5e1-6e0a-4d26-ba12-817e3a19c485)
+
+
+
+
 
 # Author 
 Suryansh Mishra @suryanshmishra0704@gmail.com
