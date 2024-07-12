@@ -43,15 +43,23 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 Note: Deploy the contracts in Remix IDE using Environment --> Injected Provider - Metamask.
 
 ## Interacting with Program
+
+Deploying the contracts on DragonNet (custom) Subnet.  
+
 ![image](https://github.com/user-attachments/assets/5f377180-b84c-45ff-a715-b2e9d56bec1d)
+
+Minting tokens using owner's address.
+
 ![image](https://github.com/user-attachments/assets/39abf3b6-a05a-4195-8591-37bcfeaa21fd)
+
+Interacting with the contract using function calls.
+
 ![image](https://github.com/user-attachments/assets/0e9b2e5a-4cae-4be6-a8e6-185d65914e14)
 ![image](https://github.com/user-attachments/assets/fa7eed33-3e7c-4d97-a3a5-6524fe51a3cf)
+
+Playing the game by staking the EC tokens and checking the balance to confirm win or loose.
+
 ![image](https://github.com/user-attachments/assets/7267c5e1-6e0a-4d26-ba12-817e3a19c485)
-
-
-
-
 
 # Author 
 Suryansh Mishra @suryanshmishra0704@gmail.com
